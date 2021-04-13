@@ -1,9 +1,11 @@
 // Goal: A program that stores my lunch order in the computer's memory, then writes it to the console
 // Write the algorithm, in the comments. Write the code.
 
-// Store the item I want to eat
+// Reserve a place in the computer's memory for the thing I want to eat
 
-// Store the quantity I want
+// Assign the item I want to eat
+
+// Reserve a place for and store the quantity I want
 
 // Make an English sentence
 
