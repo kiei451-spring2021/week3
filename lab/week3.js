@@ -59,8 +59,9 @@ document.addEventListener('DOMContentLoaded', async function() {
 
   // Use the random integer to grab a promotion from the Array of promotions
   // and store it in memory
-
-  // Figure out which emoji should be displayed, store it in memory
+  
+  // Figure out which emoji should be displayed, store it in memory (you will need
+  // an empty variable for this before you write any conditional)
 
   // Create a sentence that displays the emoji along with the description 
   // of the promotion
